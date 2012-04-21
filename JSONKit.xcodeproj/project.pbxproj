@@ -22,7 +22,7 @@
 
 /* Begin PBXBuildFile section */
 		0086C99415433682006B5B39 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0086C99315433682006B5B39 /* Foundation.framework */; };
-		0086C9A9154336DB006B5B39 /* JSONKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 0086C9A7154336DB006B5B39 /* JSONKit.h */; };
+		0086C9A9154336DB006B5B39 /* JSONKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 0086C9A7154336DB006B5B39 /* JSONKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0086C9AA154336DB006B5B39 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 0086C9A8154336DB006B5B39 /* JSONKit.m */; };
 /* End PBXBuildFile section */
 
