@@ -1,0 +1,20 @@
+<project>
+	<name>eHarmony Tracking iOS library</name>
+	<groupId>com.eharmony.mobile.external</groupId>
+	<version>1.2.0</version>
+	<scm>git</scm>
+	
+	<artifacts>
+		<artifact>
+			<artifactId>jsonkit</artifactId>
+			<name>JSONKit</name>
+			<silenceXcode>true</silenceXcode>
+			<target>
+				<name>JSONKit-Universal</name>
+				<configuration>Release</configuration>
+				<buildFolder>Universal</buildFolder>
+			</target>
+		</artifact>
+	</artifacts>
+    
+</project>
